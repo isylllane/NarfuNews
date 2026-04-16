@@ -8,8 +8,24 @@ export default defineConfig({
     root: path.resolve(__dirname, 'Frontend'),
 // Настройка сервера разработки
     server: {
-        port: 3001,
-        open: true
+        host: '0.0.0.0',
+        port: 3000,
+        open: true,
+        hmr: {
+            overlay: true,
+            // Принудительное обновление при изменении
+            protocol: 'ws',
+            host: 'localhost',
+        },
+        watch: {
+            // Следить за изменениями в компонентах
+            usePolling: true,
+            interval: 100,
+        },
+        optimizeDeps: {
+            // Предзагрузка зависимостей
+            include: ['vuetify', 'vue-router'],
+        }
     },
 // Настройка сборки
     build: {
@@ -23,5 +39,14 @@ export default defineConfig({
             '@': path.resolve(__dirname, 'Frontend'),
         }
     },
-    plugins: [vue()],
+    plugins: [vue({
+        script: {
+            defineModel: true,
+        },
+        template: {
+            compilerOptions: {
+                hoistStatic: false,
+            }
+        }
+    })],
 })

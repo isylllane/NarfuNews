@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28540671-c31d-489e-a9e5-842064a70a6d" name="Changes" comment="" />
+    <list default="true" id="28540671-c31d-489e-a9e5-842064a70a6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/NavBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/SideBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/icons/FireIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/icons/HouseIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/views/LastNews.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/views/MostViewed.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/plugins/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/plugins/vuetify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/VTooltip-C_fjbEQ_.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/VTooltip-C_fjbEQ_.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/defineComponent-D7iIlPq-.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/defineComponent-D7iIlPq-.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/en-BwNDQKjj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/en-BwNDQKjj.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/hotkey-parsing-B78pkVJ2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/hotkey-parsing-B78pkVJ2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/icons-Dr-d7xPD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/icons-Dr-d7xPD.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/theme-DlDuUc6B.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/theme-DlDuUc6B.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.runtime.esm-bundler-DewitlPc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.runtime.esm-bundler-DewitlPc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_iconsets_mdi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_iconsets_mdi.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_locale.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_locale.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +50,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Composition API Component" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;isylllane&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/isylllane/NarfuNews&quot;,
+    &quot;accountId&quot;: &quot;9aeb1ec3-180e-42b8-9fac-372c82ebec0a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -31,36 +80,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/university/webdev/lab4/Frontend/public&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;npm.front-build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "E:/university/webdev/NarfuNews_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "npm.front-build.executor": "Run",
+    "npm.start.executor": "Run",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;vue.recent.templates&quot;: [
-      &quot;Vue Composition API Component&quot;
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\university\webdev\lab4\Frontend\public" />
       <recent name="E:\university\webdev\lab4\Frontend\plugins" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\university\webdev\NarfuNews\Frontend\src\components\UI" />
       <recent name="E:\university\webdev\lab4\Server" />
     </key>
   </component>
@@ -70,6 +121,16 @@
       <command value="run" />
       <scripts>
         <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="front-build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="front-build" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -89,13 +150,14 @@
       <list>
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.front-build" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
       </set>
     </attachedChunks>
   </component>
@@ -108,10 +170,42 @@
       <option name="presentableId" value="Default" />
       <updated>1775038184372</updated>
       <workItem from="1775038187417" duration="3095000" />
+      <workItem from="1775044455780" duration="4108000" />
+      <workItem from="1775052156304" duration="2459000" />
+      <workItem from="1775056930924" duration="4987000" />
+      <workItem from="1775110169836" duration="3343000" />
+      <workItem from="1775476467059" duration="5681000" />
+      <workItem from="1775484144533" duration="3686000" />
+      <workItem from="1776260719052" duration="1198000" />
+      <workItem from="1776364216659" duration="826000" />
+      <workItem from="1776365092599" duration="1023000" />
+      <workItem from="1776366136980" duration="2255000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Frontend/plugins/vuetify.js</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
