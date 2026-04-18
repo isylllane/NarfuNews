@@ -5,42 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28540671-c31d-489e-a9e5-842064a70a6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/NavBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/SideBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/components/icons/FireIcon.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/components/icons/HouseIcon.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/views/LastNews.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/views/MostViewed.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/MainNews.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/NewsCard.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/plugins/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/plugins/vuetify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/VTooltip-C_fjbEQ_.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/VTooltip-C_fjbEQ_.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/defineComponent-D7iIlPq-.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/defineComponent-D7iIlPq-.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/en-BwNDQKjj.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/en-BwNDQKjj.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/hotkey-parsing-B78pkVJ2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/hotkey-parsing-B78pkVJ2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/icons-Dr-d7xPD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/icons-Dr-d7xPD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/theme-DlDuUc6B.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/theme-DlDuUc6B.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.runtime.esm-bundler-DewitlPc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.runtime.esm-bundler-DewitlPc.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_iconsets_mdi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_iconsets_mdi.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_locale.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_locale.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/components/UI/SideBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/components/UI/SideBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/views/LastNews.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/views/LastNews.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NarfuNewsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/NarfuNewsData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,37 +51,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
-    "last_opened_file_path": "E:/university/webdev/NarfuNews_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.dev.executor": "Run",
-    "npm.front-build.executor": "Run",
-    "npm.start.executor": "Run",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/webdev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.front-build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "vue.recent.templates": [
-      "Vue Composition API Component"
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\university\webdev\lab4\Frontend\public" />
       <recent name="E:\university\webdev\lab4\Frontend\plugins" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\university\webdev\NarfuNews" />
+      <recent name="E:\university\webdev\NarfuNews\Frontend" />
       <recent name="E:\university\webdev\NarfuNews\Frontend\src\components\UI" />
       <recent name="E:\university\webdev\lab4\Server" />
     </key>
@@ -157,7 +130,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -180,6 +153,11 @@
       <workItem from="1776364216659" duration="826000" />
       <workItem from="1776365092599" duration="1023000" />
       <workItem from="1776366136980" duration="2255000" />
+      <workItem from="1776368510013" duration="150000" />
+      <workItem from="1776368684918" duration="287000" />
+      <workItem from="1776413186443" duration="362000" />
+      <workItem from="1776421368870" duration="4039000" />
+      <workItem from="1776426151162" duration="4749000" />
     </task>
     <servers />
   </component>

@@ -6,8 +6,8 @@
     <!-- Сайдбар - передаем состояние через v-model -->
     <Sidebar v-model="drawer" />
 
-    <v-main>
-      <v-container>
+    <v-main class="bg-grey-lighten-5">
+      <v-container fluid>
 
         <RouterView />
       </v-container>

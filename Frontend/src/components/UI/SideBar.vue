@@ -50,11 +50,12 @@ const navigate = (path) => {
   <v-navigation-drawer
       v-model="drawer"
       :location="$vuetify.display.mobile ? 'top' : undefined"
-      width="350"
+      width="280"
       :class="{ 'mobile-drawer': $vuetify.display.mobile }"
   >
     <v-list>
       <v-list-item
+          slim
           v-for="(item, i) in items"
           :key="i"
           :value="item.value"
@@ -65,7 +66,7 @@ const navigate = (path) => {
           <v-icon :icon="item.icon"></v-icon>
         </template>
 
-        <v-list-item-title v-text="item.title"></v-list-item-title>
+        <v-list-item-title v-text="item.title" class="text-label-medium"></v-list-item-title>
       </v-list-item>
     </v-list>
   </v-navigation-drawer>
@@ -83,4 +84,11 @@ const navigate = (path) => {
     overflow-y: auto;
   }
 }
+
+.compact-list-item :deep(.v-list-item__prepend) {
+  padding-inline-end: 8px !important; /* Уменьшаем отступ справа от иконки */
+  min-width: 32px !important; /* Уменьшаем минимальную ширину контейнера иконки */
+}
+
+
 </style>
