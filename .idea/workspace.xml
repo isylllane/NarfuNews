@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28540671-c31d-489e-a9e5-842064a70a6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/MainNews.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/components/UI/NewsCard.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/components/UI/SideBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/components/UI/SideBar.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/src/views/LastNews.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/views/LastNews.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NarfuNewsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/NarfuNewsData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/VTooltip-M6_UQcxY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/VTooltip-M6_UQcxY.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/en-DIlVNENw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/en-DIlVNENw.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/hotkey-parsing-CBtVd8iP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/hotkey-parsing-CBtVd8iP.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/theme-eL3mjcu7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/theme-eL3mjcu7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.runtime.esm-bundler-Cg9CpxwA.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vue.runtime.esm-bundler-Cg9CpxwA.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_components.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_directives.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_locale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vuetify_locale.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +51,12 @@
     &quot;assignee&quot;: &quot;isylllane&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/isylllane/NarfuNews&quot;,
-    &quot;accountId&quot;: &quot;9aeb1ec3-180e-42b8-9fac-372c82ebec0a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/isylllane/NarfuNews.git",
+    "accountId": "9aeb1ec3-180e-42b8-9fac-372c82ebec0a"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -57,7 +72,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/webdev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/university/webdev/NarfuNews_1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,7 +82,7 @@
     &quot;npm.front-build.executor&quot;: &quot;Run&quot;,
     &quot;npm.start.executor&quot;: &quot;Run&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -82,8 +97,6 @@
       <recent name="E:\university\webdev\lab4\Frontend\plugins" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\university\webdev\NarfuNews" />
-      <recent name="E:\university\webdev\NarfuNews\Frontend" />
       <recent name="E:\university\webdev\NarfuNews\Frontend\src\components\UI" />
       <recent name="E:\university\webdev\lab4\Server" />
     </key>
@@ -130,7 +143,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
       </set>
     </attachedChunks>
   </component>
@@ -153,12 +166,17 @@
       <workItem from="1776364216659" duration="826000" />
       <workItem from="1776365092599" duration="1023000" />
       <workItem from="1776366136980" duration="2255000" />
-      <workItem from="1776368510013" duration="150000" />
-      <workItem from="1776368684918" duration="287000" />
-      <workItem from="1776413186443" duration="362000" />
-      <workItem from="1776421368870" duration="4039000" />
-      <workItem from="1776426151162" duration="4749000" />
+      <workItem from="1776523126804" duration="2456000" />
     </task>
+    <task id="LOCAL-00001" summary="измен">
+      <option name="closed" value="true" />
+      <created>1776523433277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776523433277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +192,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="измен" />
+    <option name="LAST_COMMIT_MESSAGE" value="измен" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
